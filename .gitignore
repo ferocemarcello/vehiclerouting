@@ -1,4 +1,3 @@
-
 # Created by https://www.toptal.com/developers/gitignore/api/pycharm,python,django
 # Edit at https://www.toptal.com/developers/gitignore?templates=pycharm,python,django
 
@@ -284,6 +283,7 @@ fabric.properties
 # Celery stuff
 
 # SageMath parsed files
+*.sage.py
 
 # Environments
 
@@ -300,3 +300,4 @@ fabric.properties
 # pytype static type analyzer
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,python,django
+.idea/
